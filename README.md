@@ -1,7 +1,6 @@
 # 🛠 FPGA 学习记录汇总
 
-欢迎来到我的 FPGA 实验笔记。
+个人学习FPGA记录
 
 ### 📁 项目分类
-* **[以太网通信 (Ethernet)](Ethernet/MDIO/README.md)**：包含 YT8531C 的 MDIO 配置等。
-* **SPI 通信**：(待补充)
+* **[以太网通信 (Ethernet)](Ethernet/MDIO/README.md)**：PHY芯片使用 YT8531C 。
